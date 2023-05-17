@@ -21,6 +21,10 @@ body{
 #fundohome{
     background-image: url('img/controlefinanceiro.png');
     background-size: cover;
+    height: 680px;
+    
+    
+    
 }
 
 h1{
