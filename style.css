@@ -76,6 +76,30 @@ h3:hover{
   cursor: pointer;
 }
 
+#calc{
+    
+    font-weight: bold;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-right: 15%;
+    
+    
+}
+
+footer{
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    color: rgba(255, 255, 255, 0.716);
+        
+    
+}
+
+
+
 
   
 header{   
@@ -132,17 +156,7 @@ li{
 }
 
 
-footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    padding: 10px;
-    text-align: center;
-    color: rgba(255, 255, 255, 0.716);
-    font-weight: lighter;
-    font-style: italic;
-}
+
 
 a {
     text-decoration: none;
@@ -221,7 +235,7 @@ height: auto;
 #btsomar{
     display: block;
     margin: auto;
-    background-color: greenyellow;
+    background-color: #adff2f;
     color: #20221d;
     width: 120px;
     height: auto;
@@ -263,6 +277,14 @@ height: auto;
 }
 
 
+/*Botao cadastro Google*/
+
+#buttonDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+        
+}
 
 
 

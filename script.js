@@ -28,6 +28,12 @@ var gastos = [];
         document.getElementById("hoje").innerHTML = `R$ ` + soma.toFixed(2);
       }
 
+
+      
+      
+    
+    
+
       
 
 

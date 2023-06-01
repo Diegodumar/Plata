@@ -1,0 +1,24 @@
+{
+  "name": "plata",
+  "version": "1.0.0",
+  "description": "Aplicativo para controle financeiro",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegodumar/Plata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diegodumar/Plata/issues"
+  },
+  "homepage": "https://github.com/Diegodumar/Plata#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.22.1"
+  }
+}
